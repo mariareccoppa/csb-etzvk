@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://mariareccoppa.github.io/csb-etzvk/static/css/main.edd7c1f3.chunk.css",
+    "main.js": "https://mariareccoppa.github.io/csb-etzvk/static/js/main.e0ce778e.chunk.js",
+    "main.js.map": "https://mariareccoppa.github.io/csb-etzvk/static/js/main.e0ce778e.chunk.js.map",
+    "runtime-main.js": "https://mariareccoppa.github.io/csb-etzvk/static/js/runtime-main.b704758a.js",
+    "runtime-main.js.map": "https://mariareccoppa.github.io/csb-etzvk/static/js/runtime-main.b704758a.js.map",
+    "static/js/2.8986eebc.chunk.js": "https://mariareccoppa.github.io/csb-etzvk/static/js/2.8986eebc.chunk.js",
+    "static/js/2.8986eebc.chunk.js.map": "https://mariareccoppa.github.io/csb-etzvk/static/js/2.8986eebc.chunk.js.map",
+    "index.html": "https://mariareccoppa.github.io/csb-etzvk/index.html",
+    "static/css/main.edd7c1f3.chunk.css.map": "https://mariareccoppa.github.io/csb-etzvk/static/css/main.edd7c1f3.chunk.css.map",
+    "static/js/2.8986eebc.chunk.js.LICENSE.txt": "https://mariareccoppa.github.io/csb-etzvk/static/js/2.8986eebc.chunk.js.LICENSE.txt",
+    "static/media/majima.211cf81a.png": "https://mariareccoppa.github.io/csb-etzvk/static/media/majima.211cf81a.png",
+    "static/media/molloy.7b69d665.png": "https://mariareccoppa.github.io/csb-etzvk/static/media/molloy.7b69d665.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b704758a.js",
+    "static/js/2.8986eebc.chunk.js",
+    "static/css/main.edd7c1f3.chunk.css",
+    "static/js/main.e0ce778e.chunk.js"
+  ]
+}
